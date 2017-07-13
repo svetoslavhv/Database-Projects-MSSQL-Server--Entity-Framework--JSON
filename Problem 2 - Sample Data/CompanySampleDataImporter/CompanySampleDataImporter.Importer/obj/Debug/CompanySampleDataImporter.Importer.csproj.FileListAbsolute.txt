@@ -1,0 +1,12 @@
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\CompanySampleDataImporter.Importer.exe.config
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\CompanySampleDataImporter.Importer.exe
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\CompanySampleDataImporter.Importer.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\CompanySampleDataImporter.Data.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\CompanySampleDataImporter.Data.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\obj\Debug\CompanySampleDataImporter.Importer.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\obj\Debug\CompanySampleDataImporter.Importer.exe
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CompanySampleDataImporter\CompanySampleDataImporter.Importer\obj\Debug\CompanySampleDataImporter.Importer.pdb

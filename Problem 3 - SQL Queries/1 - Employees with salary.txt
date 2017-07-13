@@ -1,0 +1,5 @@
+SELECT FirstName + ' ' + LastName AS FullName , YearSalary 
+ FROM Employees
+ WHERE YearSalary >= 100000
+ AND YearSalary <= 150000
+ ORDER BY YearSalary

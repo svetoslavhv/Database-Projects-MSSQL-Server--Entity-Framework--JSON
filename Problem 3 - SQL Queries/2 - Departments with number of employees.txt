@@ -1,0 +1,5 @@
+ SELECT d.Name as DepartmentName, COUNT(e.Id) as NumberOfEMployees
+ FROM Departments d
+ INNER JOIN Employees e
+ ON d.Id = e.DepartmentId
+ GROUP BY d.Name

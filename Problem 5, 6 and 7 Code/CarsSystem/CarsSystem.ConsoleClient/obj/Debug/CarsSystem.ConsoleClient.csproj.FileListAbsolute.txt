@@ -1,0 +1,35 @@
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.ConsoleClient.exe.config
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.ConsoleClient.exe
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.ConsoleClient.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Data.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Models.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Data.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Models.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\obj\Debug\CarsSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\obj\Debug\CarsSystem.ConsoleClient.exe
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.ConsoleClient\obj\Debug\CarsSystem.ConsoleClient.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.ConsoleClient.exe.config
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\obj\Debug\CarsSystem.ConsoleClient.exe
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\obj\Debug\CarsSystem.ConsoleClient.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\JsonFiles\data.0.json
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\JsonFiles\data.1.json
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\JsonFiles\data.2.json
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\JsonFiles\data.3.json
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\JsonFiles\data.4.json
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.ConsoleClient.exe
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.ConsoleClient.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Data.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Models.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Data.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\CarsSystem.Models.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.ConsoleClient\obj\Debug\CarsSystem.ConsoleClient.csprojResolveAssemblyReference.cache

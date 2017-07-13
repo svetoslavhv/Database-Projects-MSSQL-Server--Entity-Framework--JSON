@@ -1,0 +1,24 @@
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Data.dll.config
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Data.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Data.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Models.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Models.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\obj\Debug\CarsSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\obj\Debug\CarsSystem.Data.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 2 - Sample Data\CarsSystem\CarsSystem.Data\obj\Debug\CarsSystem.Data.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Data.dll.config
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Data.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Data.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Models.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\CarsSystem.Models.pdb
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\obj\Debug\CarsSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\obj\Debug\CarsSystem.Data.dll
+C:\Users\asd\Desktop\DatabaseExam\Solution\Problem 5, 6 and 7 Code\CarsSystem\CarsSystem.Data\obj\Debug\CarsSystem.Data.pdb

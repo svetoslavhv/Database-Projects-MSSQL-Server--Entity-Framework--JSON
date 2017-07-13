@@ -1,5 +1,4 @@
-
-Problem 1.Database First 
+## Problem 1.Database First
 
 In **company** , information about different **employees** and **projects** is held. Each employee has **first** and **last name** (both between 5 and 20 letters, inclusive), **year salary** , **manager** and **department**. Each **department** has **unique name** between 10 and 50 letters, inclusive. Each employee works on many projects. Each **project** has **name** between 5 and 50 letters, inclusive, and **employees** working on it. Each employee also has **starting** and **ending**** date **for each of his/her** projects **. Every single piece of information is** mandatory **, except** manager **– some employees do not have one. Additionally, every employee has to report every day when he/she got to work. Each** report **has** time** of reporting.
 
@@ -7,7 +6,7 @@ Design a database schema &quot; **Company**&quot; in SQL Server to keep the info
 
 Provide a **SQL script for your database schema** (without the data), a backup (.bak file) from the database and a **simple documentation of the relationships** between the tables. Additionally, provide a **picture of the design diagram** describing your created database.
 
-Problem 2.Sample Data 
+## Problem 2.Sample Data 
 
 Use C# to implement an application for generating random sample data in the company. Create at least:
 
@@ -22,7 +21,7 @@ Use C# to implement an application for generating random sample data in the comp
 
 \* All text can be random string with valid length depending on the field.
 
-Problem 3.SQL Queries (18 points)
+## Problem 3.SQL Queries (18 points)
 
 Write three queries in native SQL:
 
@@ -32,17 +31,17 @@ Write three queries in native SQL:
 
 Provide three .sql files with the three queries in them.
 
-Problem 4.Performance Tuning (7 points)
+## Problem 4.Performance Tuning (7 points)
 
 Create a &quot;cache&quot; table for the third query from problem 3 and save all the results there for future querying. Provide the .sql file, containing the stored procedures which creates the table and inserts the data. You should write two stored procedures – one for creating the table and one for updating the data.
 
-Problem 5.Code First (15 points)
+## Problem 5.Code First (15 points)
 
 In different **cities** , **cars** from different **manufacturers and dealers** are sold. Each **manufacturer** has name (mandatory with maximum of 10 symbols). Each **car** has manufacturer, model (maximum of 11 symbols), transmission type, year, price and dealer. All fields are mandatory. **Transmission type** can be manual or automatic. **Dealers** have name (mandatory with maximum of 50 symbols) and cities, in which they sold cars. Each **city** has name (mandatory with maximum of 10 symbols). Each city and each manufacturer is unique by their name.
 
 Design a database schema &quot; **Cars**&quot; using Code First approach with Entity Framework.
 
-Problem 6.Import from JSON File (15 points)
+## Problem 6.Import from JSON File (15 points)
 
 Write a **C# program** to **parse a number of JSON files** with name format &quot;data._number_.json&quot; holding a set of cars&#39; information in the format given below and **insert them into the database** :
 
@@ -54,7 +53,7 @@ You should correctly **import the cars, manufacturers, dealers and cities into t
 
 \* You are free to use an ORM framework by choice (in code first).
 
-Problem 7.Application Queries (20 points)
+## Problem 7.Application Queries (20 points)
 
 Implement a **C# program** for **searching for cars**** by given conditions **. It should be able to process a sequence of queries from the XML file** queries.xml** in the following format:
 

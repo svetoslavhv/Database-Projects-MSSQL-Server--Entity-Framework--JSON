@@ -46,55 +46,7 @@ Problem 6.Import from JSON File (15 points)
 
 Write a **C# program** to **parse a number of JSON files** with name format &quot;data._number_.json&quot; holding a set of cars&#39; information in the format given below and **insert them into the database** :
 
-| **data.0.json** |
-| --- |
-| [
-   {
-      "Year":2014,
-      "TransmissionType":0,
-      "ManufacturerName":"Mazda",
-      "Model":"6 Skyactiv",
-      "Price":60000.0,
-      "Dealer":{
-         "Name":"Star Motors",
-         "City":"Sofia"
-      }
-   },
-   {
-      "Year":2008,
-      "TransmissionType":1,
-      "ManufacturerName":"BMW",
-      "Model":"320i Cabrio",
-      "Price":30000.0,
-      "Dealer":{
-         "Name":"MM Auto",
-         "City":"Sofia"
-      }
-   },
-   {
-      "Year":2003,
-      "TransmissionType":0,
-      "ManufacturerName":"Renaut",
-      "Model":"Clio 1.4",
-      "Price":5500.0,
-      "Dealer":{
-         "Name":"T Моторс",
-         "City":"Sofia"
-      }
-   },
-   {
-      "Year":1997,
-      "TransmissionType":0,
-      "ManufacturerName":"Opel",
-      "Model":"Tigra",
-      "Price":5000.0,
-      "Dealer":{
-         "Name":"TA Моторс",
-         "City":"Sofia"
-      }
-   }
-]
- |
+![json](https://user-images.githubusercontent.com/12698693/28158090-3f66d7fc-67c1-11e7-960e-17ab937319f4.jpg)
 
 \* You are free to use a JSON parser by choice (or to parse the JSON without using a parser).
 

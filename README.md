@@ -58,9 +58,7 @@ Problem 7.Application Queries (20 points)
 
 Implement a **C# program** for **searching for cars**** by given conditions **. It should be able to process a sequence of queries from the XML file** queries.xml** in the following format:
 
-| **queries.xml** |
-| --- |
-| &lt;?xml version=&quot;1.0&quot;?&gt;&lt;Queries xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;  &lt;Query OutputFileName=&quot;Result0.xml&quot;&gt;    &lt;OrderBy&gt;Id&lt;/OrderBy&gt;    &lt;WhereClauses&gt;      &lt;WhereClause PropertyName=&quot;City&quot; Type=&quot;Equals&quot;&gt;Sofia&lt;/WhereClause&gt;      &lt;WhereClause PropertyName=&quot;Year&quot; Type=&quot;GreaterThan&quot;&gt;1999&lt;/WhereClause&gt;    &lt;/WhereClauses&gt;  &lt;/Query&gt;&lt;/Queries&gt; |
+![queriesxml](https://user-images.githubusercontent.com/12698693/28158174-8b985d44-67c1-11e7-9ff3-abf32fc4e90a.png)
 
 Each query has different output file, provided in the &quot;OutputFileName&quot; attribute.
 
@@ -82,6 +80,5 @@ Where clauses can be one or many. If many where clauses are provided, use &quot;
 
 Write the results in the corresponding XML files in the following format:
 
-| &lt;?xml version=&quot;1.0&quot;?&gt;&lt;Cars xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;  &lt;Car Manufacturer=&quot;Mazda&quot; Model=&quot;6 Skyactiv&quot; Year=&quot;2014&quot; Price=&quot;60000.00&quot;&gt;    &lt;TransmissionType&gt;manual&lt;/TransmissionType&gt;    &lt;Dealer Name=&quot;Star Motors&quot;&gt;      &lt;Cities&gt;        &lt;City&gt;Sofia&lt;/City&gt;      &lt;/Cities&gt;    &lt;/Dealer&gt;  &lt;/Car&gt;  &lt;Car Manufacturer=&quot;BMW&quot; Model=&quot;320i Cabrio&quot; Year=&quot;2008&quot; Price=&quot;30000.00&quot;&gt;    &lt;TransmissionType&gt;automatic&lt;/TransmissionType&gt;    &lt;Dealer Name=&quot;MM Auto&quot;&gt;      &lt;Cities&gt;        &lt;City&gt;Sofia&lt;/City&gt;      &lt;/Cities&gt;    &lt;/Dealer&gt;  &lt;/Car&gt;  &lt;Car Manufacturer=&quot;Renaut&quot; Model=&quot;Clio 1.4&quot; Year=&quot;2003&quot; Price=&quot;5500.00&quot;&gt;    &lt;TransmissionType&gt;manual&lt;/TransmissionType&gt;    &lt;Dealer Name=&quot;TA Моторс&quot;&gt;      &lt;Cities&gt;        &lt;City&gt;Sofia&lt;/City&gt;        &lt;City&gt;Kyustendil&lt;/City&gt;      &lt;/Cities&gt;    &lt;/Dealer&gt;  &lt;/Car&gt;&lt;/Cars&gt; |
-| --- |
+![xml](https://user-images.githubusercontent.com/12698693/28158200-a384305e-67c1-11e7-84f5-8740ef81026e.png)
 

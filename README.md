@@ -48,7 +48,53 @@ Write a **C# program** to **parse a number of JSON files** with name format &quo
 
 | **data.0.json** |
 | --- |
-| [   {      &quot;Year&quot;:2014,      &quot;TransmissionType&quot;:0,      &quot;ManufacturerName&quot;:&quot;Mazda&quot;,      &quot;Model&quot;:&quot;6 Skyactiv&quot;,      &quot;Price&quot;:60000.0,      &quot;Dealer&quot;:{         &quot;Name&quot;:&quot;Star Motors&quot;,         &quot;City&quot;:&quot;Sofia&quot;      }   },   {      &quot;Year&quot;:2008,      &quot;TransmissionType&quot;:1,      &quot;ManufacturerName&quot;:&quot;BMW&quot;,      &quot;Model&quot;:&quot;320i Cabrio&quot;,      &quot;Price&quot;:30000.0,      &quot;Dealer&quot;:{         &quot;Name&quot;:&quot;MM Auto&quot;,         &quot;City&quot;:&quot;Sofia&quot;      }   },   {      &quot;Year&quot;:2003,      &quot;TransmissionType&quot;:0,      &quot;ManufacturerName&quot;:&quot;Renaut&quot;,      &quot;Model&quot;:&quot;Clio 1.4&quot;,      &quot;Price&quot;:5500.0,      &quot;Dealer&quot;:{         &quot;Name&quot;:&quot;T Моторс&quot;,         &quot;City&quot;:&quot;Sofia&quot;      }   },   {      &quot;Year&quot;:1997,      &quot;TransmissionType&quot;:0,      &quot;ManufacturerName&quot;:&quot;Opel&quot;,      &quot;Model&quot;:&quot;Tigra&quot;,      &quot;Price&quot;:5000.0,      &quot;Dealer&quot;:{         &quot;Name&quot;:&quot;TA Моторс&quot;,         &quot;City&quot;:&quot;Sofia&quot;      }   }] |
+| [
+   {
+      "Year":2014,
+      "TransmissionType":0,
+      "ManufacturerName":"Mazda",
+      "Model":"6 Skyactiv",
+      "Price":60000.0,
+      "Dealer":{
+         "Name":"Star Motors",
+         "City":"Sofia"
+      }
+   },
+   {
+      "Year":2008,
+      "TransmissionType":1,
+      "ManufacturerName":"BMW",
+      "Model":"320i Cabrio",
+      "Price":30000.0,
+      "Dealer":{
+         "Name":"MM Auto",
+         "City":"Sofia"
+      }
+   },
+   {
+      "Year":2003,
+      "TransmissionType":0,
+      "ManufacturerName":"Renaut",
+      "Model":"Clio 1.4",
+      "Price":5500.0,
+      "Dealer":{
+         "Name":"T Моторс",
+         "City":"Sofia"
+      }
+   },
+   {
+      "Year":1997,
+      "TransmissionType":0,
+      "ManufacturerName":"Opel",
+      "Model":"Tigra",
+      "Price":5000.0,
+      "Dealer":{
+         "Name":"TA Моторс",
+         "City":"Sofia"
+      }
+   }
+]
+ |
 
 \* You are free to use a JSON parser by choice (or to parse the JSON without using a parser).
 
